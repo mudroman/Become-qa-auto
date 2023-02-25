@@ -1,9 +1,11 @@
-# Become-qa-auto
-commit #1
+**Freamwork Structure:**
+1. application folder contsins:
+    1.1 apiy...
 
+**How to run tests :**
 
-commit #2
+1. run cdm to execure 'asdsjad'
 
-commit #3 Text
+**How to :**
 
-commit #5
+1. sadas
